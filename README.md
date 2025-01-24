@@ -1,9 +1,7 @@
 # weather-api2
 
 **This project is responsive.**
-**used api**
 - [API](https://openweathermap.org/)
-
 - [Demo Project](https://ermiarzv.github.io/weather-api2/)
 - Developed by Ermia Razavi
 - Created - January 2025
